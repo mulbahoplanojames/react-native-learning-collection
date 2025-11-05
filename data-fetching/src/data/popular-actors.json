@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Dwayne Johnson",
+    "category": "Action",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Fast & Furious", "Jumanji", "Black Adam"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dwayne_Johnson_2014.jpg"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "category": "Action",
+    "gender": "Male",
+    "nationality": "Australian",
+    "notableMovies": ["Thor", "Extraction", "Avengers"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Chris_Hemsworth_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "name": "Tom Cruise",
+    "category": "Action",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Mission: Impossible", "Top Gun", "Edge of Tomorrow"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tom_Cruise_in_2019.jpg"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "category": "Action",
+    "gender": "Female",
+    "nationality": "American",
+    "notableMovies": ["Black Widow", "Lucy", "Avengers"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Scarlett_Johansson_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "name": "Ryan Reynolds",
+    "category": "Comedy",
+    "gender": "Male",
+    "nationality": "Canadian",
+    "notableMovies": ["Deadpool", "Free Guy", "The Proposal"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ryan_Reynolds_by_Gage_Skidmore_3.jpg"
+  },
+  {
+    "name": "Kevin Hart",
+    "category": "Comedy",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Jumanji", "Central Intelligence", "Ride Along"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Kevin_Hart_2014.jpg"
+  },
+  {
+    "name": "Jim Carrey",
+    "category": "Comedy",
+    "gender": "Male",
+    "nationality": "Canadian-American",
+    "notableMovies": ["The Mask", "Ace Ventura", "Yes Man"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jim_Carrey_2008.jpg"
+  },
+  {
+    "name": "Melissa McCarthy",
+    "category": "Comedy",
+    "gender": "Female",
+    "nationality": "American",
+    "notableMovies": ["Bridesmaids", "Spy", "Ghostbusters"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Melissa_McCarthy_by_Gage_Skidmore.jpg"
+  },
+  {
+    "name": "Chris Pratt",
+    "category": "Action/Comedy",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": [
+      "Guardians of the Galaxy",
+      "Jurassic World",
+      "The Lego Movie"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Chris_Pratt_2018.jpg"
+  },
+  {
+    "name": "Vin Diesel",
+    "category": "Action",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Fast & Furious", "Riddick", "XXX"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vin_Diesel_by_Gage_Skidmore_3.jpg"
+  },
+  {
+    "name": "Angelina Jolie",
+    "category": "Action/Adventure",
+    "gender": "Female",
+    "nationality": "American",
+    "notableMovies": ["Tomb Raider", "Salt", "Maleficent"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Angelina_Jolie_2019.jpg"
+  },
+  {
+    "name": "Jack Black",
+    "category": "Comedy/Animation",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Kung Fu Panda", "School of Rock", "Jumanji"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jack_Black_2011.jpg"
+  },
+  {
+    "name": "Tom Hanks",
+    "category": "Animation/Drama",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Toy Story", "Forrest Gump", "Cast Away"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tom_Hanks_2019.jpg"
+  },
+  {
+    "name": "Eddie Murphy",
+    "category": "Comedy/Animation",
+    "gender": "Male",
+    "nationality": "American",
+    "notableMovies": ["Coming to America", "Shrek", "Beverly Hills Cop"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Eddie_Murphy_by_David_Shankbone.jpg"
+  },
+  {
+    "name": "Zendaya",
+    "category": "Animation/Action",
+    "gender": "Female",
+    "nationality": "American",
+    "notableMovies": ["Spider-Man", "The Greatest Showman", "Dune"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zendaya_by_Gage_Skidmore_2.jpg"
+  }
+]
