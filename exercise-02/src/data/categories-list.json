@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "locationName": "Bora Bora Beach",
+    "image": "https://i.pinimg.com/736x/56/4e/29/564e295d5f07ce89a140952362a02d42.jpg",
+    "price": 1200,
+    "description": "A luxurious island in French Polynesia known for its turquoise lagoon and over-water bungalows.",
+    "more": {
+      "category": "Beach",
+      "country": "French Polynesia",
+      "rating": 4.9,
+      "activities": ["Snorkeling", "Scuba Diving", "Lagoon Tours"]
+    }
+  },
+  {
+    "id": 2,
+    "locationName": "Mount Everest",
+    "image": "https://i.pinimg.com/1200x/11/6d/dc/116ddc238da711cd394fffdcc1c54c5a.jpg",
+    "price": 800,
+    "description": "The world's highest mountain peak, located in the Himalayas on the border between Nepal and China. :contentReference[oaicite:0]{index=0}",
+    "more": {
+      "category": "Mountain",
+      "country": "Nepal/China",
+      "rating": 4.8,
+      "activities": ["Trekking", "Climbing", "Camping"]
+    }
+  },
+  {
+    "id": 3,
+    "locationName": "Santorini Island",
+    "image": "https://i.pinimg.com/736x/6c/81/14/6c8114b550891ccdacd97de0850f09f4.jpg",
+    "price": 950,
+    "description": "A picturesque Greek island in the Aegean Sea, famous for its cliff-side white houses, blue-domed churches and stunning sunsets.",
+    "more": {
+      "category": "Island",
+      "country": "Greece",
+      "rating": 4.9,
+      "activities": ["Sightseeing", "Sunset Cruises", "Wine Tasting"]
+    }
+  },
+  {
+    "id": 4,
+    "locationName": "Sahara Desert",
+    "image": "https://i.pinimg.com/736x/d7/5c/77/d75c77cbf0770919491f6a7f58a57332.jpg",
+    "price": 600,
+    "description": "The largest hot desert in the world, offering golden dunes, camel rides and unforgettable sunsets. :contentReference[oaicite:1]{index=1}",
+    "more": {
+      "category": "Desert",
+      "country": "Multiple (North Africa)",
+      "rating": 4.7,
+      "activities": ["Camel Safari", "Sandboarding", "Desert Camping"]
+    }
+  },
+  {
+    "id": 5,
+    "locationName": "Maldives Atoll",
+    "image": "https://i.pinimg.com/1200x/73/21/f2/7321f2b0ca5002a1af5bb4b539334cd5.jpg",
+    "price": 1500,
+    "description": "A tropical paradise comprised of hundreds of coral islands in the Indian Ocean, offering crystal-clear waters and luxury resorts.",
+    "more": {
+      "category": "Island",
+      "country": "Maldives",
+      "rating": 5.0,
+      "activities": ["Scuba Diving", "Beach Lounging", "Boat Tours"]
+    }
+  },
+  {
+    "id": 6,
+    "locationName": "Rocky Mountains",
+    "image": "https://i.pinimg.com/1200x/91/50/b3/9150b336cc9cb4bdd219f23d1205900a.jpg",
+    "price": 700,
+    "description": "A major mountain range in North America offering rugged peaks, alpine lakes and scenic trails.",
+    "more": {
+      "category": "Mountain",
+      "country": "United States/Canada",
+      "rating": 4.6,
+      "activities": ["Hiking", "Skiing", "Fishing"]
+    }
+  },
+  {
+    "id": 7,
+    "locationName": "Galápagos Islands",
+    "image": "https://i.pinimg.com/1200x/37/b5/fb/37b5fb2e70e85f102a1020beda2b572c.jpg",
+    "price": 1300,
+    "description": "An archipelago of volcanic islands in the Pacific Ocean, known for its unique wildlife and evolutionary significance.",
+    "more": {
+      "category": "Island",
+      "country": "Ecuador",
+      "rating": 4.8,
+      "activities": ["Wildlife Viewing", "Snorkeling", "Volcano Tours"]
+    }
+  },
+  {
+    "id": 8,
+    "locationName": "Seychelles Beach",
+    "image": "https://i.pinimg.com/736x/d5/0a/17/d50a17dfa90843ecba9bcf2737e1c459.jpg",
+    "description": "A group of islands in the Indian Ocean known for granite boulders, white-sand beaches and turquoise seas.",
+    "more": {
+      "category": "Beach/Island",
+      "country": "Seychelles",
+      "rating": 4.9,
+      "activities": ["Beach Relaxation", "Canoeing", "Island Hopping"]
+    }
+  },
+  {
+    "id": 9,
+    "locationName": "Namib Desert",
+    "image": "https://i.pinimg.com/1200x/53/de/20/53de20a86765bb050efa8b9b4306c36b.jpg",
+    "price": 650,
+    "description": "One of the oldest deserts in the world, located along the Atlantic coast of Namibia with striking orange dunes and wildlife.",
+    "more": {
+      "category": "Desert",
+      "country": "Namibia",
+      "rating": 4.5,
+      "activities": ["Dune Climbing", "Wildlife Safaris", "Photography"]
+    }
+  },
+  {
+    "id": 10,
+    "locationName": "Great Barrier Reef",
+    "image": "https://i.pinimg.com/1200x/88/63/61/886361218a93b0945e801b7e2c83a2c8.jpg",
+    "price": 1400,
+    "description": "The world’s largest coral reef system, located in Australia, famed for marine biodiversity and snorkeling opportunities.",
+    "more": {
+      "category": "Marine/Island",
+      "country": "Australia",
+      "rating": 4.8,
+      "activities": ["Snorkeling", "Diving", "Boat Tours"]
+    }
+  },
+  {
+    "id": 11,
+    "locationName": "Patagonia Mountains",
+    "image": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg",
+    "price": 900,
+    "description": "A remote and rugged mountain region in South America straddling Argentina and Chile, known for dramatic landscapes.",
+    "more": {
+      "category": "Mountain",
+      "country": "Argentina/Chile",
+      "rating": 4.7,
+      "activities": ["Trekking", "Ice-Hiking", "Wildlife Spotting"]
+    }
+  },
+  {
+    "id": 12,
+    "locationName": "Gobi Desert",
+    "image": "https://i.pinimg.com/1200x/20/94/7c/20947c792f6d13b7cdfe1c67a80f9380.jpg",
+    "price": 620,
+    "description": "A vast desert region in Asia, spanning northern China and southern Mongolia, known for dunes, steppes and rare wildlife.",
+    "more": {
+      "category": "Desert",
+      "country": "China/Mongolia",
+      "rating": 4.4,
+      "activities": ["Camel Trekking", "Sand-steppe Tours", "Cultural Visits"]
+    }
+  },
+  {
+    "id": 13,
+    "locationName": "Hawaii – Maui Beach",
+    "image": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg",
+    "price": 1050,
+    "description": "A tropical beach destination in the USA, with lush greenery, volcanic landscapes and beautiful coastlines.",
+    "more": {
+      "category": "Beach",
+      "country": "USA",
+      "rating": 4.8,
+      "activities": ["Surfing", "Hiking", "Beach Relaxation"]
+    }
+  },
+  {
+    "id": 14,
+    "locationName": "Iceland’s Volcano Mountain",
+    "image": "https://i.pinimg.com/736x/37/a2/e5/37a2e5686f753b70bb4171cf6847896f.jpg",
+    "price": 850,
+    "description": "A dramatic volcanic mountain in Iceland, offering unique terrain, glaciers, and scenic views.",
+    "more": {
+      "category": "Mountain",
+      "country": "Iceland",
+      "rating": 4.6,
+      "activities": ["Glacier Hiking", "Photography", "Geothermal Visits"]
+    }
+  },
+  {
+    "id": 15,
+    "locationName": "Maui Island",
+    "image": "https://i.pinimg.com/736x/03/11/31/03113168f50883f31cec4c6694e31c6d.jpg",
+    "price": 970,
+    "description": "A volcanic crater park on Maui offering sunrise views above the clouds and lush island surroundings.",
+    "more": {
+      "category": "Island/Mountain",
+      "country": "USA",
+      "rating": 4.7,
+      "activities": ["Sunrise Viewing", "Hiking", "Nature Exploration"]
+    }
+  }
+]

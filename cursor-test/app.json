@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "KoloHealth",
+    "slug": "kolo-health",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/icons/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kolohealth.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/android-icon-background.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kolohealth.app"
+    },
+    "web": {
+      "favicon": "./assets/icons/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"],
+    "scheme": "kolohealth",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
